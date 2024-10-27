@@ -1,1 +1,1 @@
-this is a probe on pycharm work and i try to do commit and i learn python and git :D
+this is a test how pycharm works and i trying to do commit and i learning python and git :D
