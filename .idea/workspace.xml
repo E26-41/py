@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="Replace all spring on rope" />
+    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="Fix first error">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +117,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730119046612</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fix first error">
+      <option name="closed" value="true" />
+      <created>1730119175609</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730119175609</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix first error">
+      <option name="closed" value="true" />
+      <created>1730119349860</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730119349860</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +154,7 @@
     <MESSAGE value="Replace all Black jacket on Red hat" />
     <MESSAGE value="Replace all Goblin on wolf" />
     <MESSAGE value="Replace all spring on rope" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replace all spring on rope" />
+    <MESSAGE value="Fix first error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix first error" />
   </component>
 </project>
