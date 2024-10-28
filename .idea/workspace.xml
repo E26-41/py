@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="update all files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_001/03_three_commits.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/03_three_commits.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_001/red_hat/01_jorney_begin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/red_hat/01_jorney_begin.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_001/red_hat/02_unexpected_meet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/red_hat/02_unexpected_meet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_001/red_hat/03_murder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/red_hat/03_murder.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_001/red_hat/04_second_victim.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/red_hat/04_second_victim.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_001/red_hat/05_retribution.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_001/red_hat/05_retribution.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="Replace all spring on rope" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +91,31 @@
       <option name="project" value="LOCAL" />
       <updated>1730063438421</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Replace all Black jacket on Red hat">
+      <option name="closed" value="true" />
+      <created>1730118687741</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730118687741</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Replace all Goblin on wolf">
+      <option name="closed" value="true" />
+      <created>1730118873676</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730118873676</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Replace all spring on rope">
+      <option name="closed" value="true" />
+      <created>1730119046612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730119046612</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +133,9 @@
     <MESSAGE value="hm" />
     <MESSAGE value="test commit" />
     <MESSAGE value="update all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="update all files" />
+    <MESSAGE value="Replace all Black jacket on Red hat" />
+    <MESSAGE value="Replace all Goblin on wolf" />
+    <MESSAGE value="Replace all spring on rope" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replace all spring on rope" />
   </component>
 </project>
