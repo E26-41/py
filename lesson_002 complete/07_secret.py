@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+from pyexpat.errors import messages
 
 # есть зашифрованное сообщение
 
@@ -21,4 +22,12 @@ secret_message = [
 # Требуется задать конкретные индексы, например secret_message[3][12:23:4]
 # Если нужны вычисления и разные пробы - делайте это в консоли пайтона, тут нужен только результат
 
-# TODO вывести расшифрованное сообщение
+m = secret_message[0][3]
+e = secret_message[1][9:13]
+ss = secret_message[2][5:15:2]
+a = secret_message[3][7:13]
+# Только такой способ нашёл
+aa = ''.join(reversed(a))
+g = secret_message[4][16:21]
+gg = ''.join(reversed(g))
+print(m,' ' + e,' ' + ss,' ' + aa,' ' + gg)
