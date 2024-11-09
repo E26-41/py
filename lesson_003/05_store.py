@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from statistics import quantiles
 
 # Есть словарь кодов товаров
 
@@ -32,7 +33,7 @@ store = {
 
 # Рассчитать на какую сумму лежит каждого товара на складе.
 #
-# Вывести суммарную стоимость каждого товара на складе c помощью циклов
+# Вывести суммарную стоимость каждого товара на складе с помощью циклов,
 # То есть: всего по лампам, стульям, етс.
 # Формат строки вывода: "<товар> - <кол-во> шт, стоимость <общая стоимость> руб"
 #
@@ -46,10 +47,16 @@ store = {
 #         подсчет стоимости товара
 #     вывод на консоль количества и стоимости товара на складе
 
-# TODO здесь ваш код
-
-
-
-
-
-
+for product in goods:
+    key_product = goods[product]
+    product_store = store[key_product]
+    item=0
+    x = 0
+    y = 0
+    for quantity, price in product_store:
+        quantity = product_store[item][quantity]
+        price = product_store[item][price]
+        item+=1
+        x += quantity
+        y += price
+    print('Кол-во', product, x, 'стоимость', y)

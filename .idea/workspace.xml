@@ -4,23 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="Rename">
-      <change afterPath="$PROJECT_DIR$/lesson_002 complete/00_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002 complete/09_shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_002 complete/10_store.py" afterDir="false" />
+    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="just test commit for homework">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/00_distance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/01_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/01_circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/02_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/02_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/03_favorite_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/03_favorite_movies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/04_my_family.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/04_my_family.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/05_zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/05_zoo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/06_songs_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/06_songs_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/07_secret.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/07_secret.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/08_garden.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/08_garden.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/09_shopping.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/10_store.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_002/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/00_bubbles.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/00_bubbles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/01_days_in_month.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/01_days_in_month.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/02_envelop.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/02_envelop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/03_division.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/03_division.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/04_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/04_student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/05_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/05_store.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/06_rainbow.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/06_rainbow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/07_wall.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/07_wall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/08_smile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/08_smile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/examples/05_rainbow_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/06_rainbow_01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/examples/05_rainbow_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/06_rainbow_02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/examples/06_wall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/07_wall.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003/examples/07_smile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/08_smile.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,9 @@
     &quot;accountId&quot;: &quot;c4e67864-a48b-44f9-9a1c-8798832b5899&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../py/Lib/site-packages/simple_draw.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -55,25 +57,157 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.00_distance.executor": "Run",
-    "Python.01_circle.executor": "Run",
-    "Python.02_operations.executor": "Run",
-    "Python.03_favorite_movies.executor": "Run",
-    "Python.04_my_family.executor": "Run",
-    "Python.05_zoo.executor": "Run",
-    "Python.06_songs_list.executor": "Run",
-    "Python.07_secret.executor": "Run",
-    "Python.08_garden.executor": "Run",
-    "Python.09_shopping.executor": "Run",
-    "Python.10_store.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.00_bubbles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00_distance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_days_in_month.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_envelop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_division.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_favorite_movies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_my_family.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_student.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_for.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.05_store.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_zoo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_rainbow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_songs_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_secret.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_wall.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_garden.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_smile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_shopping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_store.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Timur/probe/py/lesson_003&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Python.07_wall (1)">
+    <configuration name="05_store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/05_store.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_rainbow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/06_rainbow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07_wall (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003 complete" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003 complete/07_wall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07_wall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/07_wall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08_smile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/08_smile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.07_wall (1)" />
+        <item itemvalue="Python.08_smile" />
+        <item itemvalue="Python.07_wall" />
+        <item itemvalue="Python.06_rainbow" />
+        <item itemvalue="Python.05_store" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -170,7 +304,31 @@
       <option name="project" value="LOCAL" />
       <updated>1730120524214</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Rename and complete homework">
+      <option name="closed" value="true" />
+      <created>1730378834080</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730378834080</updated>
+    </task>
+    <task id="LOCAL-00012" summary="just test commit for homework">
+      <option name="closed" value="true" />
+      <created>1731171737941</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731171737941</updated>
+    </task>
+    <task id="LOCAL-00013" summary="just test commit for homework">
+      <option name="closed" value="true" />
+      <created>1731172738850</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731172738850</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +351,8 @@
     <MESSAGE value="Replace all spring on rope" />
     <MESSAGE value="Fix first error" />
     <MESSAGE value="Rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename" />
+    <MESSAGE value="Rename and complete homework" />
+    <MESSAGE value="just test commit for homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="just test commit for homework" />
   </component>
 </project>
