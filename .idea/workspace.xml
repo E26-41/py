@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="just test commit for homework">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/00_bubbles.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/00_bubbles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/01_days_in_month.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/01_days_in_month.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/02_envelop.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/02_envelop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/03_division.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/03_division.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/04_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/04_student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/05_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/05_store.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/06_rainbow.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/06_rainbow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/07_wall.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/07_wall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/08_smile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/08_smile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/examples/05_rainbow_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/06_rainbow_01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/examples/05_rainbow_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/06_rainbow_02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/examples/06_wall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/07_wall.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_003/examples/07_smile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/08_smile.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="this too" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,36 +41,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.00_bubbles.executor&quot;: &quot;Run&quot;,
-    &quot;Python.00_distance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_days_in_month.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_envelop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_division.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_favorite_movies.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_my_family.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_student.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_for.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.05_store.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_zoo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_rainbow.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_songs_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_secret.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_wall.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08_garden.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08_smile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09_shopping.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10_store.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Timur/probe/py/lesson_003&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.00_bubbles.executor": "Run",
+    "Python.00_distance.executor": "Run",
+    "Python.01_circle.executor": "Run",
+    "Python.01_days_in_month.executor": "Run",
+    "Python.02_envelop.executor": "Run",
+    "Python.02_operations.executor": "Run",
+    "Python.03_division.executor": "Run",
+    "Python.03_favorite_movies.executor": "Run",
+    "Python.04_my_family.executor": "Run",
+    "Python.04_student.executor": "Run",
+    "Python.05_for.executor": "Debug",
+    "Python.05_store.executor": "Run",
+    "Python.05_zoo.executor": "Run",
+    "Python.06_rainbow.executor": "Run",
+    "Python.06_songs_list.executor": "Run",
+    "Python.07_secret.executor": "Run",
+    "Python.07_wall (1).executor": "Run",
+    "Python.07_wall.executor": "Run",
+    "Python.08_garden.executor": "Run",
+    "Python.08_smile.executor": "Run",
+    "Python.09_shopping.executor": "Run",
+    "Python.10_store.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Timur/probe/py/lesson_003",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.07_wall (1)">
     <configuration name="05_store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
@@ -328,7 +313,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731172738850</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Complete 3 lesson">
+      <option name="closed" value="true" />
+      <created>1731174915382</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731174915382</updated>
+    </task>
+    <task id="LOCAL-00015" summary="this too">
+      <option name="closed" value="true" />
+      <created>1731174954041</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731174954041</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,6 +354,8 @@
     <MESSAGE value="Rename" />
     <MESSAGE value="Rename and complete homework" />
     <MESSAGE value="just test commit for homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="just test commit for homework" />
+    <MESSAGE value="Complete 3 lesson" />
+    <MESSAGE value="this too" />
+    <option name="LAST_COMMIT_MESSAGE" value="this too" />
   </component>
 </project>
