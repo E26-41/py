@@ -1,0 +1,680 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"Black\">\r\n    <option name=\"sdkName\" value=\"Python 3.13 (py)\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.13 (py)\" project-jdk-type=\"Python SDK\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 9d76d1e63741f0c3d0b4f671d44bf46d722a93c8)
++++ b/.idea/misc.xml	(date 1731078283470)
+@@ -3,5 +3,5 @@
+   <component name="Black">
+     <option name="sdkName" value="Python 3.13 (py)" />
+   </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (py)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a8ee00b3-d418-4629-996c-a4af2819f0a4\" name=\"Changes\" comment=\"Rename\">\r\n      <change afterPath=\"$PROJECT_DIR$/lesson_002 complete/00_distance.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/lesson_002 complete/09_shopping.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/lesson_002 complete/10_store.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/00_distance.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/01_circle.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/lesson_002 complete/01_circle.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/02_operations.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/lesson_002 complete/02_operations.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/03_favorite_movies.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/lesson_002 complete/03_favorite_movies.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/04_my_family.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/lesson_002 complete/04_my_family.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/05_zoo.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/lesson_002 complete/05_zoo.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/06_songs_list.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/lesson_002 complete/06_songs_list.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/07_secret.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/lesson_002 complete/07_secret.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/08_garden.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/lesson_002 complete/08_garden.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/09_shopping.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/10_store.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/lesson_002/__init__.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/lesson_002 complete/__init__.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"SET_USER_NAME_GLOBALLY\" value=\"false\" />\r\n    <option name=\"SIGN_OFF_COMMIT\" value=\"true\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;E26-41&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/E26-41/py.git&quot;,\r\n    &quot;accountId&quot;: &quot;c4e67864-a48b-44f9-9a1c-8798832b5899&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2o2BfbVnoh3KBhZSP0Ansk3l7Ze\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.00_distance.executor\": \"Run\",\r\n    \"Python.01_circle.executor\": \"Run\",\r\n    \"Python.02_operations.executor\": \"Run\",\r\n    \"Python.03_favorite_movies.executor\": \"Run\",\r\n    \"Python.04_my_family.executor\": \"Run\",\r\n    \"Python.05_zoo.executor\": \"Run\",\r\n    \"Python.06_songs_list.executor\": \"Run\",\r\n    \"Python.07_secret.executor\": \"Run\",\r\n    \"Python.08_garden.executor\": \"Run\",\r\n    \"Python.09_shopping.executor\": \"Run\",\r\n    \"Python.10_store.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"settings.editor.selected.configurable\": \"project.propVCSSupport.CommitDialog\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a8ee00b3-d418-4629-996c-a4af2819f0a4\" name=\"Changes\" comment=\"\" />\r\n      <created>1730057895826</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1730057895826</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"hm\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730057990093</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730057990093</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"hm\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730058482458</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730058482458</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"test commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730063285072</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730063285072</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"update all files\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730063438421</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730063438421</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Replace all Black jacket on Red hat\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730118687741</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730118687741</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Replace all Goblin on wolf\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730118873676</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730118873676</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Replace all spring on rope\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730119046612</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730119046612</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Fix first error\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730119175609</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730119175609</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Fix first error\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730119349860</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730119349860</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Rename\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1730120524214</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1730120524214</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"11\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"hm\" />\r\n    <MESSAGE value=\"test commit\" />\r\n    <MESSAGE value=\"update all files\" />\r\n    <MESSAGE value=\"Replace all Black jacket on Red hat\" />\r\n    <MESSAGE value=\"Replace all Goblin on wolf\" />\r\n    <MESSAGE value=\"Replace all spring on rope\" />\r\n    <MESSAGE value=\"Fix first error\" />\r\n    <MESSAGE value=\"Rename\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Rename\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9d76d1e63741f0c3d0b4f671d44bf46d722a93c8)
++++ b/.idea/workspace.xml	(date 1731172761907)
+@@ -4,23 +4,22 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="Rename">
+-      <change afterPath="$PROJECT_DIR$/lesson_002 complete/00_distance.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lesson_002 complete/09_shopping.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/lesson_002 complete/10_store.py" afterDir="false" />
++    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="just test commit for homework">
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/00_distance.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/01_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/01_circle.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/02_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/02_operations.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/03_favorite_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/03_favorite_movies.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/04_my_family.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/04_my_family.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/05_zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/05_zoo.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/06_songs_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/06_songs_list.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/07_secret.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/07_secret.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/08_garden.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/08_garden.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/09_shopping.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/10_store.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/lesson_002/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/__init__.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/00_bubbles.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/00_bubbles.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/01_days_in_month.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/01_days_in_month.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/02_envelop.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/02_envelop.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/03_division.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/03_division.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/04_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/04_student.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/05_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/05_store.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/06_rainbow.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/06_rainbow.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/07_wall.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/07_wall.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/08_smile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/08_smile.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/examples/05_rainbow_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/06_rainbow_01.jpg" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/examples/05_rainbow_02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/06_rainbow_02.jpg" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/examples/06_wall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/07_wall.jpg" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson_003/examples/07_smile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003/examples/08_smile.jpg" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -44,6 +43,9 @@
+     &quot;accountId&quot;: &quot;c4e67864-a48b-44f9-9a1c-8798832b5899&quot;
+   }
+ }</component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/../../../../py/Lib/site-packages/simple_draw.py" root0="SKIP_INSPECTION" />
++  </component>
+   <component name="ProblemsViewState">
+     <option name="selectedTabId" value="CurrentFile" />
+   </component>
+@@ -57,23 +59,155 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "Python.00_bubbles.executor": "Run",
+     "Python.00_distance.executor": "Run",
+     "Python.01_circle.executor": "Run",
++    "Python.01_days_in_month.executor": "Run",
++    "Python.02_envelop.executor": "Run",
+     "Python.02_operations.executor": "Run",
++    "Python.03_division.executor": "Run",
+     "Python.03_favorite_movies.executor": "Run",
+     "Python.04_my_family.executor": "Run",
++    "Python.04_student.executor": "Run",
++    "Python.05_for.executor": "Debug",
++    "Python.05_store.executor": "Run",
+     "Python.05_zoo.executor": "Run",
++    "Python.06_rainbow.executor": "Run",
+     "Python.06_songs_list.executor": "Run",
+     "Python.07_secret.executor": "Run",
++    "Python.07_wall.executor": "Run",
+     "Python.08_garden.executor": "Run",
++    "Python.08_smile.executor": "Run",
+     "Python.09_shopping.executor": "Run",
+     "Python.10_store.executor": "Run",
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "git-widget-placeholder": "main",
+-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
++    "last_opened_file_path": "C:/Users/Timur/probe/py/lesson_003",
++    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
+   }
+ }]]></component>
++  <component name="RunManager" selected="Python.08_smile">
++    <configuration name="00_bubbles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/00_bubbles.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="05_store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/05_store.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="06_rainbow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/06_rainbow.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="07_wall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/07_wall.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="08_smile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="py" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/08_smile.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Python.08_smile" />
++        <item itemvalue="Python.00_bubbles" />
++        <item itemvalue="Python.07_wall" />
++        <item itemvalue="Python.06_rainbow" />
++        <item itemvalue="Python.05_store" />
++      </list>
++    </recent_temporary>
++  </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -170,7 +304,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1730120524214</updated>
+     </task>
+-    <option name="localTasksCounter" value="11" />
++    <task id="LOCAL-00011" summary="Rename and complete homework">
++      <option name="closed" value="true" />
++      <created>1730378834080</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1730378834080</updated>
++    </task>
++    <task id="LOCAL-00012" summary="just test commit for homework">
++      <option name="closed" value="true" />
++      <created>1731171737941</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1731171737941</updated>
++    </task>
++    <task id="LOCAL-00013" summary="just test commit for homework">
++      <option name="closed" value="true" />
++      <created>1731172738850</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1731172738850</updated>
++    </task>
++    <option name="localTasksCounter" value="14" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -193,6 +351,8 @@
+     <MESSAGE value="Replace all spring on rope" />
+     <MESSAGE value="Fix first error" />
+     <MESSAGE value="Rename" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Rename" />
++    <MESSAGE value="Rename and complete homework" />
++    <MESSAGE value="just test commit for homework" />
++    <option name="LAST_COMMIT_MESSAGE" value="just test commit for homework" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: lesson_003/00_bubbles.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># -*- coding: utf-8 -*-\r\n\r\nimport simple_draw as sd\r\n\r\nsd.resolution = (1200, 600)\r\n\r\n# Нарисовать пузырек - три вложенных окружностей с шагом 5 пикселей\r\n# TODO здесь ваш код\r\n\r\n# Написать функцию рисования пузырька, принммающую 2 (или более) параметра: точка рисовании и шаг\r\n# TODO здесь ваш код\r\n\r\n# Нарисовать 10 пузырьков в ряд\r\n# TODO здесь ваш код\r\n\r\n# Нарисовать три ряда по 10 пузырьков\r\n# TODO здесь ваш код\r\n\r\n# Нарисовать 100 пузырьков в произвольных местах экрана случайными цветами\r\n# TODO здесь ваш код\r\n\r\nsd.pause()\r\n\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_003/00_bubbles.py b/lesson_003/00_bubbles.py
+--- a/lesson_003/00_bubbles.py	(revision 9d76d1e63741f0c3d0b4f671d44bf46d722a93c8)
++++ b/lesson_003/00_bubbles.py	(date 1731165803418)
+@@ -5,19 +5,42 @@
+ sd.resolution = (1200, 600)
+ 
+ # Нарисовать пузырек - три вложенных окружностей с шагом 5 пикселей
+-# TODO здесь ваш код
++'''
++point = sd.get_point(100, 100)
++radius = 50
++for _ in range(3):
++    radius += 5
++    sd.circle(center_position=point, radius=radius)
++'''
++# Написать функцию рисования пузырька, принимающую 2 (или более) параметра: точка рисовании и шаг
+ 
+-# Написать функцию рисования пузырька, принммающую 2 (или более) параметра: точка рисовании и шаг
+-# TODO здесь ваш код
++def bubble(point, step):
++    radius = 50
++    for _ in range(3):
++        radius += step
++        sd.circle(center_position=point, radius=radius)
++'''
++point = sd.get_point(300, 300)
++bubble(point=point, step = 10 )
+ 
+ # Нарисовать 10 пузырьков в ряд
+-# TODO здесь ваш код
++
++for x in range(100, 1100, 100):
++    point = sd.get_point(x, 500)
++    bubble(point=point, step=10)
+ 
+ # Нарисовать три ряда по 10 пузырьков
+-# TODO здесь ваш код
+ 
++for y in range(100, 301, 100):
++    for x in range(100, 1100, 100):
++        point = sd.get_point(x, y)
++        bubble(point=point, step=10)
++'''
+ # Нарисовать 100 пузырьков в произвольных местах экрана случайными цветами
+-# TODO здесь ваш код
++
++for _ in range(100):
++    point = sd.random_point()
++    bubble(point=point, step=3)
+ 
+ sd.pause()
+ 
+Index: lesson_003/01_days_in_month.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># -*- coding: utf-8 -*-\r\n\r\n# (if/elif/else)\r\n\r\n# По номеру месяца вывести кол-во дней в нем (без указания названия месяца, в феврале 28 дней)\r\n# Результат проверки вывести на консоль\r\n# Если номер месяца некорректен - сообщить об этом\r\n\r\n# Номер месяца получать от пользователя следующим образом\r\nuser_input = input(\"Введите, пожалуйста, номер месяца: \")\r\nmonth = int(user_input)\r\nprint('Вы ввели', month)\r\n\r\n# TODO здесь ваш код\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_003/01_days_in_month.py b/lesson_003/01_days_in_month.py
+--- a/lesson_003/01_days_in_month.py	(revision 9d76d1e63741f0c3d0b4f671d44bf46d722a93c8)
++++ b/lesson_003/01_days_in_month.py	(date 1731092650925)
+@@ -11,4 +11,9 @@
+ month = int(user_input)
+ print('Вы ввели', month)
+ 
+-# TODO здесь ваш код
++if 0 < month <= 12:
++    month_number = {1: 31, 2: 28, 3: 31, 4: 30, 5: 31,
++                    6: 30, 7: 31, 8: 31, 9: 30, 10: 31,
++                    11: 30, 12: 31}
++    print(month_number[month])
++else: print('Вы ввели некорректное число')
+\ No newline at end of file
+Index: lesson_003/02_envelop.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># -*- coding: utf-8 -*-\r\n\r\n# (if/elif/else)\r\n\r\n# Заданы размеры envelop_x, envelop_y - размеры конверта и paper_x, paper_y листа бумаги\r\n#\r\n# Определить, поместится ли бумага в конверте (стороны листа параллельны сторонам конверта)\r\n#\r\n# Результат проверки вывести на консоль (ДА/НЕТ)\r\n# Использовать только операторы if/elif/else, можно вложенные\r\n\r\nenvelop_x, envelop_y = 10, 7\r\npaper_x, paper_y = 8, 9\r\n# проверить для\r\n# paper_x, paper_y = 9, 8\r\n# paper_x, paper_y = 6, 8\r\n# paper_x, paper_y = 8, 6\r\n# paper_x, paper_y = 3, 4\r\n# paper_x, paper_y = 11, 9\r\n# paper_x, paper_y = 9, 11\r\n# (просто раскоментировать нужную строку и проверить свой код)\r\n\r\n# TODO здесь ваш код\r\n\r\n# Усложненное задание, решать по желанию.\r\n# Заданы размеры hole_x, hole_y прямоугольного отверстия и размеры brick_х, brick_у, brick_z кирпича (все размеры\r\n# могут быть в диапазоне от 1 до 1000)\r\n#\r\n# Определить, пройдет ли кирпич через отверстие (грани кирпича параллельны сторонам отверстия)\r\n\r\n# hole_x, hole_y = 8, 9\r\n# brick_x, brick_y, brick_z = 11, 10, 2\r\n# brick_x, brick_y, brick_z = 11, 2, 10\r\n# brick_x, brick_y, brick_z = 10, 11, 2\r\n# brick_x, brick_y, brick_z = 10, 2, 11\r\n# brick_x, brick_y, brick_z = 2, 10, 11\r\n# brick_x, brick_y, brick_z = 2, 11, 10\r\n# brick_x, brick_y, brick_z = 3, 5, 6\r\n# brick_x, brick_y, brick_z = 3, 6, 5\r\n# brick_x, brick_y, brick_z = 6, 3, 5\r\n# brick_x, brick_y, brick_z = 6, 5, 3\r\n# brick_x, brick_y, brick_z = 5, 6, 3\r\n# brick_x, brick_y, brick_z = 5, 3, 6\r\n# brick_x, brick_y, brick_z = 11, 3, 6\r\n# brick_x, brick_y, brick_z = 11, 6, 3\r\n# brick_x, brick_y, brick_z = 6, 11, 3\r\n# brick_x, brick_y, brick_z = 6, 3, 11\r\n# brick_x, brick_y, brick_z = 3, 6, 11\r\n# brick_x, brick_y, brick_z = 3, 11, 6\r\n# (просто раскоментировать нужную строку и проверить свой код)\r\n\r\n# TODO здесь ваш код\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_003/02_envelop.py b/lesson_003/02_envelop.py
+--- a/lesson_003/02_envelop.py	(revision 9d76d1e63741f0c3d0b4f671d44bf46d722a93c8)
++++ b/lesson_003/02_envelop.py	(date 1731094374553)
+@@ -18,9 +18,12 @@
+ # paper_x, paper_y = 3, 4
+ # paper_x, paper_y = 11, 9
+ # paper_x, paper_y = 9, 11
+-# (просто раскоментировать нужную строку и проверить свой код)
++# (просто раскомментировать нужную строку и проверить свой код)
+ 
+-# TODO здесь ваш код
++if envelop_x >= paper_x and envelop_y >= paper_y:
++    print('да')
++else:
++    print('нет')
+ 
+ # Усложненное задание, решать по желанию.
+ # Заданы размеры hole_x, hole_y прямоугольного отверстия и размеры brick_х, brick_у, brick_z кирпича (все размеры
+@@ -28,8 +31,8 @@
+ #
+ # Определить, пройдет ли кирпич через отверстие (грани кирпича параллельны сторонам отверстия)
+ 
+-# hole_x, hole_y = 8, 9
+-# brick_x, brick_y, brick_z = 11, 10, 2
++hole_x, hole_y = 8, 9
++brick_x, brick_y, brick_z = 11, 10, 2
+ # brick_x, brick_y, brick_z = 11, 2, 10
+ # brick_x, brick_y, brick_z = 10, 11, 2
+ # brick_x, brick_y, brick_z = 10, 2, 11
+@@ -47,6 +50,11 @@
+ # brick_x, brick_y, brick_z = 6, 3, 11
+ # brick_x, brick_y, brick_z = 3, 6, 11
+ # brick_x, brick_y, brick_z = 3, 11, 6
+-# (просто раскоментировать нужную строку и проверить свой код)
++# (просто раскомментировать нужную строку и проверить свой код)
+ 
+-# TODO здесь ваш код
++if hole_y >= brick_z and hole_x >= brick_x:
++    print('да, пройдёт с боковой стороны')
++elif hole_y >= brick_z and hole_x >= brick_y:
++    print('пройдёт, но с лицевой стороны')
++else:
++    print('не пройдёт')
+\ No newline at end of file
+Index: lesson_003/03_division.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># -*- coding: utf-8 -*-\r\n\r\n# (цикл while)\r\n\r\n# даны целые положительные числа a и b (a > b)\r\n# Определить результат целочисленного деления a на b, с помощью цикла while,\r\n# __НЕ__ используя стандартную операцию целочисленного деления (// и %)\r\n# Формат вывода:\r\n#   Целочисленное деление ХХХ на YYY дает ZZZ\r\n\r\na, b = 179, 37\r\n\r\n# TODO здесь ваш код\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_003/03_division.py b/lesson_003/03_division.py
+--- a/lesson_003/03_division.py	(revision 9d76d1e63741f0c3d0b4f671d44bf46d722a93c8)
++++ b/lesson_003/03_division.py	(date 1731095800702)
+@@ -9,5 +9,8 @@
+ #   Целочисленное деление ХХХ на YYY дает ZZZ
+ 
+ a, b = 179, 37
+-
+-# TODO здесь ваш код
++z = 0
++while a > b:
++    a = a - b
++    z += 1
++print(z)
+\ No newline at end of file
+Index: lesson_003/04_student.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># -*- coding: utf-8 -*-\r\n\r\n# (цикл while)\r\n\r\n# Ежемесячная стипендия студента составляет educational_grant руб., а расходы на проживание превышают стипендию\r\n# и составляют expenses руб. в месяц. Рост цен ежемесячно увеличивает расходы на 3%, кроме первого месяца\r\n# Составьте программу расчета суммы денег, которую необходимо единовременно попросить у родителей,\r\n# чтобы можно было прожить учебный год (10 месяцев), используя только эти деньги и стипендию.\r\n# Формат вывода:\r\n#   Студенту надо попросить ХХХ.ХХ рублей\r\n\r\neducational_grant, expenses = 10000, 12000\r\n\r\n# TODO здесь ваш код\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_003/04_student.py b/lesson_003/04_student.py
+--- a/lesson_003/04_student.py	(revision 9d76d1e63741f0c3d0b4f671d44bf46d722a93c8)
++++ b/lesson_003/04_student.py	(date 1731097372320)
+@@ -3,12 +3,19 @@
+ # (цикл while)
+ 
+ # Ежемесячная стипендия студента составляет educational_grant руб., а расходы на проживание превышают стипендию
+-# и составляют expenses руб. в месяц. Рост цен ежемесячно увеличивает расходы на 3%, кроме первого месяца
++# и составляют expenses руб. в месяц. Рост цен ежемесячно увеличивает расходы на 3%, кроме первого месяца.
+ # Составьте программу расчета суммы денег, которую необходимо единовременно попросить у родителей,
+ # чтобы можно было прожить учебный год (10 месяцев), используя только эти деньги и стипендию.
+ # Формат вывода:
+ #   Студенту надо попросить ХХХ.ХХ рублей
+ 
+ educational_grant, expenses = 10000, 12000
+-
+-# TODO здесь ваш код
++x = 1
++mat_help = 0
++while x <= 10:
++    if x >= 2:
++        expenses += expenses * 0.03
++        mat_help += expenses - educational_grant
++    else: mat_help =  expenses - educational_grant
++    x += 1
++print('Студенту надо попросить', round(mat_help))
+Index: lesson_003/05_store.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># -*- coding: utf-8 -*-\r\n\r\n# Есть словарь кодов товаров\r\n\r\ngoods = {\r\n    'Лампа': '12345',\r\n    'Стол': '23456',\r\n    'Диван': '34567',\r\n    'Стул': '45678',\r\n}\r\n\r\n# Есть словарь списков количества товаров на складе.\r\n\r\nstore = {\r\n    '12345': [\r\n        {'quantity': 27, 'price': 42},\r\n    ],\r\n    '23456': [\r\n        {'quantity': 22, 'price': 510},\r\n        {'quantity': 32, 'price': 520},\r\n    ],\r\n    '34567': [\r\n        {'quantity': 2, 'price': 1200},\r\n        {'quantity': 1, 'price': 1150},\r\n    ],\r\n    '45678': [\r\n        {'quantity': 50, 'price': 100},\r\n        {'quantity': 12, 'price': 95},\r\n        {'quantity': 43, 'price': 97},\r\n    ],\r\n}\r\n\r\n# Рассчитать на какую сумму лежит каждого товара на складе.\r\n#\r\n# Вывести суммарную стоимость каждого товара на складе c помощью циклов\r\n# То есть: всего по лампам, стульям, етс.\r\n# Формат строки вывода: \"<товар> - <кол-во> шт, стоимость <общая стоимость> руб\"\r\n#\r\n# Алгоритм должен получиться приблизительно такой:\r\n#\r\n# цикл for по товарам с получением кода и названия товара\r\n#     инициализация переменных для подсчета количества и стоимости товара\r\n#     получение списка на складе по коду товара\r\n#     цикл for по списку на складе\r\n#         подсчет количества товара\r\n#         подсчет стоимости товара\r\n#     вывод на консоль количества и стоимости товара на складе\r\n\r\n# TODO здесь ваш код\r\n\r\n\r\n\r\n\r\n\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_003/05_store.py b/lesson_003/05_store.py
+--- a/lesson_003/05_store.py	(revision 9d76d1e63741f0c3d0b4f671d44bf46d722a93c8)
++++ b/lesson_003/05_store.py	(date 1731155031424)
+@@ -1,4 +1,5 @@
+ # -*- coding: utf-8 -*-
++from statistics import quantiles
+ 
+ # Есть словарь кодов товаров
+ 
+@@ -32,7 +33,7 @@
+ 
+ # Рассчитать на какую сумму лежит каждого товара на складе.
+ #
+-# Вывести суммарную стоимость каждого товара на складе c помощью циклов
++# Вывести суммарную стоимость каждого товара на складе с помощью циклов,
+ # То есть: всего по лампам, стульям, етс.
+ # Формат строки вывода: "<товар> - <кол-во> шт, стоимость <общая стоимость> руб"
+ #
+@@ -46,10 +47,16 @@
+ #         подсчет стоимости товара
+ #     вывод на консоль количества и стоимости товара на складе
+ 
+-# TODO здесь ваш код
+-
+-
+-
+-
+-
+-
++for product in goods:
++    key_product = goods[product]
++    product_store = store[key_product]
++    item=0
++    x = 0
++    y = 0
++    for quantity, price in product_store:
++        quantity = product_store[item][quantity]
++        price = product_store[item][price]
++        item+=1
++        x += quantity
++        y += price
++    print('Кол-во', product, x, 'стоимость', y)
+Index: lesson_003/06_rainbow.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># -*- coding: utf-8 -*-\r\n\r\n# (цикл for)\r\n\r\nimport simple_draw as sd\r\n\r\nrainbow_colors = (sd.COLOR_RED, sd.COLOR_ORANGE, sd.COLOR_YELLOW, sd.COLOR_GREEN,\r\n                  sd.COLOR_CYAN, sd.COLOR_BLUE, sd.COLOR_PURPLE)\r\n\r\n# Нарисовать радугу: 7 линий разного цвета толщиной 4 с шагом 5 из точки (50, 50) в точку (350, 450)\r\n# TODO здесь ваш код\r\n\r\n# Усложненное задание, делать по желанию.\r\n# Нарисовать радугу дугами от окружности (cсм sd.circle) за нижним краем экрана,\r\n# поэкспериментировать с параметрами, что бы было красиво\r\n# TODO здесь ваш код\r\n\r\nsd.pause()\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_003/06_rainbow.py b/lesson_003/06_rainbow.py
+--- a/lesson_003/06_rainbow.py	(revision 9d76d1e63741f0c3d0b4f671d44bf46d722a93c8)
++++ b/lesson_003/06_rainbow.py	(date 1731159713165)
+@@ -7,12 +7,30 @@
+ rainbow_colors = (sd.COLOR_RED, sd.COLOR_ORANGE, sd.COLOR_YELLOW, sd.COLOR_GREEN,
+                   sd.COLOR_CYAN, sd.COLOR_BLUE, sd.COLOR_PURPLE)
+ 
+-# Нарисовать радугу: 7 линий разного цвета толщиной 4 с шагом 5 из точки (50, 50) в точку (350, 450)
+-# TODO здесь ваш код
++# Нарисовать радугу: 7 линий разного цвета толщиной 10 с шагом 11 из точки (50, 50) в точку (350, 450)
++
++sd.resolution = (800, 500)
++x1 = 50
++y1 = 350
++z = 0
++for _ in range(7):
++    x = sd.get_point(x1, 50)
++    y = sd.get_point(y1, 450)
++    sd.line(start_point=x, end_point=y, color=rainbow_colors[z], width=10)
++    x1 += 11
++    y1 += 11
++    z +=1
+ 
+ # Усложненное задание, делать по желанию.
+ # Нарисовать радугу дугами от окружности (cсм sd.circle) за нижним краем экрана,
+ # поэкспериментировать с параметрами, что бы было красиво
+-# TODO здесь ваш код
+ 
+-sd.pause()
++point = sd.get_point(801, 0)
++radius = 200
++z = 6
++for _ in range(7):
++    sd.circle(center_position=point, radius=radius, color=rainbow_colors[z], width=35)
++    radius += 35
++    z -= 1
++
++sd.pause()
+\ No newline at end of file
+Index: lesson_003/07_wall.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># -*- coding: utf-8 -*-\r\n\r\n# (цикл for)\r\nimport simple_draw\r\n\r\n# Нарисовать стену из кирпичей. Размер кирпича - 100х50\r\n# Использовать вложенные циклы for\r\n\r\n# TODO здесь ваш код\r\n\r\nsimple_draw.pause()\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_003/07_wall.py b/lesson_003/07_wall.py
+--- a/lesson_003/07_wall.py	(revision 9d76d1e63741f0c3d0b4f671d44bf46d722a93c8)
++++ b/lesson_003/07_wall.py	(date 1731164964720)
+@@ -1,11 +1,33 @@
+ # -*- coding: utf-8 -*-
+ 
+ # (цикл for)
+-import simple_draw
++import simple_draw as sd    # было без as sd, я добавил для удобства
++from simple_draw import COLOR_ORANGE
+ 
+ # Нарисовать стену из кирпичей. Размер кирпича - 100х50
+ # Использовать вложенные циклы for
+ 
+-# TODO здесь ваш код
++x,y = -50, 0
++x1, y1 = 50, 50
++for _ in range(6):
++    for q in range(7):
++        point = sd.get_point(x, y)
++        point1 = sd.get_point(x1, y1)
++        sd.rectangle(left_bottom=point, right_top=point1, color=COLOR_ORANGE, width=1)
++        x += 100
++        x1 += 100
++    x -= 650
++    x1 -= 650
++    y += 50
++    y1 += 50
++    for w in range(6):
++        point = sd.get_point(x, y)
++        point1 = sd.get_point(x1, y1)
++        sd.rectangle(left_bottom=point, right_top=point1, color=COLOR_ORANGE, width=1)
++        x += 100
++        x1 += 100
++    x, x1 = -50, 150
++    y += 50
++    y1 += 50
+ 
+-simple_draw.pause()
++sd.pause()
+\ No newline at end of file
+Index: lesson_003/08_smile.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># -*- coding: utf-8 -*-\r\n\r\n# (определение функций)\r\nimport simple_draw\r\n\r\n# Написать функцию отрисовки смайлика в произвольной точке экрана\r\n# Форма рожицы-смайлика на ваше усмотрение\r\n# Параметры функции: кордината X, координата Y, цвет.\r\n# Вывести 10 смайликов в произвольных точках экрана.\r\n\r\n# TODO здесь ваш код\r\n\r\nsimple_draw.pause()\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson_003/08_smile.py b/lesson_003/08_smile.py
+--- a/lesson_003/08_smile.py	(revision 9d76d1e63741f0c3d0b4f671d44bf46d722a93c8)
++++ b/lesson_003/08_smile.py	(date 1731170820282)
+@@ -1,13 +1,56 @@
+ # -*- coding: utf-8 -*-
+ 
+ # (определение функций)
+-import simple_draw
++import simple_draw as sd    # Изменил как в 7 домашке
+ 
+ # Написать функцию отрисовки смайлика в произвольной точке экрана
+ # Форма рожицы-смайлика на ваше усмотрение
+-# Параметры функции: кордината X, координата Y, цвет.
++# Параметры функции: координата X, координата Y, цвет.
+ # Вывести 10 смайликов в произвольных точках экрана.
+ 
+-# TODO здесь ваш код
++def smileface(point, color, width):
++
++    ''' Рисуем тело для смайлика '''
++    radius = 50
++    sd.circle(center_position=point, radius=radius, color=color,  width=width)
+ 
+-simple_draw.pause()
++    ''' Получаем координаты '''
++    x = point.x
++    y = point.y
++
++    ''' Меняем полученные координаты и делаем глазки '''
++    x += 20
++    y += 10
++    right_eye = sd.get_point(x, y)
++    radius = 10
++    sd.circle(center_position=right_eye, radius=radius, color=color, width=width)
++    x -= 40
++    left_eye = sd.get_point(x, y)
++    sd.circle(center_position=left_eye, radius=radius, color=color, width=width)
++
++    ''' Делаем рот '''
++    x = point.x
++    y = point.y
++
++    x1 = x - 30
++    y1 = y - 10
++    point1 = sd.get_point(x1, y1)
++
++    x2 = x - 10
++    y2 = y - 25
++    point2 = sd.get_point(x2, y2)
++
++    x3 = x + 10
++    point3 = sd.get_point(x3, y2)
++
++    x4 = x + 30
++    point4 = sd.get_point(x4, y1)
++    coordinates = [point1, point2, point3, point4]
++    lines = sd.lines(point_list=coordinates, color=color, width=width)
++
++for _ in range(10):
++    point = sd.random_point()
++    color = sd.random_color()
++    smileface(point=point, color=color, width=3)
++
++sd.pause()
+\ No newline at end of file
