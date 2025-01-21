@@ -4,7 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="this too" />
+    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="rename folder">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49_[Changes]/06_rainbow_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49_[Changes]/06_rainbow_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49_[Changes]/07_wall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49_[Changes]/08_smile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/01_shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_004/01_shapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/02_global_color.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_004/02_global_color.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/03_shape_select.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_004/03_shape_select.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/01_inhabitants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/02_district.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/03_burger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/04_painting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house1/room1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house1/room2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house2/room1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house2/room2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house1/room1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house1/room2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house2/room1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house2/room2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/01_modules.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/02_imports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/03_pyc_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/04_packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/module_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/module_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/module_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/my_math.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/module_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/module_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/subpackage/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/subpackage/module_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/subpackage/module_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/results/04_painting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/room_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/room_2.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,39 +89,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.00_bubbles.executor": "Run",
-    "Python.00_distance.executor": "Run",
-    "Python.01_circle.executor": "Run",
-    "Python.01_days_in_month.executor": "Run",
-    "Python.02_envelop.executor": "Run",
-    "Python.02_operations.executor": "Run",
-    "Python.03_division.executor": "Run",
-    "Python.03_favorite_movies.executor": "Run",
-    "Python.04_my_family.executor": "Run",
-    "Python.04_student.executor": "Run",
-    "Python.05_for.executor": "Debug",
-    "Python.05_store.executor": "Run",
-    "Python.05_zoo.executor": "Run",
-    "Python.06_rainbow.executor": "Run",
-    "Python.06_songs_list.executor": "Run",
-    "Python.07_secret.executor": "Run",
-    "Python.07_wall (1).executor": "Run",
-    "Python.07_wall.executor": "Run",
-    "Python.08_garden.executor": "Run",
-    "Python.08_smile.executor": "Run",
-    "Python.09_shopping.executor": "Run",
-    "Python.10_store.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Timur/probe/py/lesson_003",
-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.00_bubbles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00_distance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_days_in_month.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_shapes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_envelop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_fractal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_global_color.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_snowflake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_division.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_favorite_movies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_shape_select.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_my_family.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_student.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_for.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.05_store.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_zoo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_rainbow (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_rainbow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_songs_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_secret.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_wall (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_wall.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_garden.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_smile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_shopping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_store.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Timur/probe/py/lesson_003&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.07_wall (1)">
-    <configuration name="05_store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.03_shape_select">
+    <configuration name="02_global_color" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_004" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/05_store.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_004/02_global_color.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_rainbow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_shape_select" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_004" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/06_rainbow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_004/03_shape_select.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_wall (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_my_family" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003 complete" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_002 complete" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003 complete/07_wall.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_002 complete/04_my_family.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_wall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_002 complete" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/07_wall.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_002 complete/05_zoo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_smile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_songs_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,11 +225,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_003" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_002 complete" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_003/08_smile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_002 complete/06_songs_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_wall (1)" />
-        <item itemvalue="Python.08_smile" />
-        <item itemvalue="Python.07_wall" />
-        <item itemvalue="Python.06_rainbow" />
-        <item itemvalue="Python.05_store" />
+        <item itemvalue="Python.03_shape_select" />
+        <item itemvalue="Python.02_global_color" />
+        <item itemvalue="Python.06_songs_list" />
+        <item itemvalue="Python.05_zoo" />
+        <item itemvalue="Python.04_my_family" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731174954041</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="rename folder">
+      <option name="closed" value="true" />
+      <created>1731175444552</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1731175444552</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,6 +419,7 @@
     <MESSAGE value="just test commit for homework" />
     <MESSAGE value="Complete 3 lesson" />
     <MESSAGE value="this too" />
-    <option name="LAST_COMMIT_MESSAGE" value="this too" />
+    <MESSAGE value="rename folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename folder" />
   </component>
 </project>
