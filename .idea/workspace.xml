@@ -5,53 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="rename folder">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49_[Changes]/06_rainbow_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49_[Changes]/06_rainbow_02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49_[Changes]/07_wall.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49_[Changes]/08_smile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_11_2024_22_49__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/01_shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_004/01_shapes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/02_global_color.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_004/02_global_color.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/03_shape_select.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_004/03_shape_select.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/01_inhabitants.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/02_district.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/03_burger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/04_painting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house1/room1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house1/room2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house2/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house2/room1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/central_street/house2/room2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house1/room1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house1/room2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house2/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house2/room1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/district/soviet_street/house2/room2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/01_modules.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/02_imports.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/03_pyc_files.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/04_packages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/module_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/module_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/module_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/my_math.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/module_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/module_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/subpackage/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/subpackage/module_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/python_snippets/package_1/subpackage/module_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/results/04_painting.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/room_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/lesson_005/room_2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,44 +43,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.00_bubbles.executor&quot;: &quot;Run&quot;,
-    &quot;Python.00_distance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_days_in_month.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_shapes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_envelop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_fractal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_global_color.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_snowflake.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_division.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_favorite_movies.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_shape_select.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_my_family.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_student.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_for.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.05_store.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_zoo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_rainbow (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_rainbow.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_songs_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_secret.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_wall (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_wall.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08_garden.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08_smile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09_shopping.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10_store.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Timur/probe/py/lesson_003&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.00_bubbles.executor": "Run",
+    "Python.00_distance.executor": "Run",
+    "Python.01_circle.executor": "Run",
+    "Python.01_days_in_month.executor": "Run",
+    "Python.01_shapes.executor": "Run",
+    "Python.01_triangle.executor": "Run",
+    "Python.02_envelop.executor": "Run",
+    "Python.02_fractal.executor": "Run",
+    "Python.02_global_color.executor": "Run",
+    "Python.02_operations.executor": "Run",
+    "Python.02_snowflake.executor": "Run",
+    "Python.03_division.executor": "Run",
+    "Python.03_favorite_movies.executor": "Run",
+    "Python.03_shape_select.executor": "Run",
+    "Python.04_my_family.executor": "Run",
+    "Python.04_student.executor": "Run",
+    "Python.05_for.executor": "Debug",
+    "Python.05_store.executor": "Run",
+    "Python.05_zoo.executor": "Run",
+    "Python.06_rainbow (1).executor": "Run",
+    "Python.06_rainbow.executor": "Run",
+    "Python.06_songs_list.executor": "Run",
+    "Python.07_secret.executor": "Run",
+    "Python.07_wall (1).executor": "Run",
+    "Python.07_wall.executor": "Run",
+    "Python.08_garden.executor": "Run",
+    "Python.08_smile.executor": "Run",
+    "Python.09_shopping.executor": "Run",
+    "Python.10_store.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Timur/probe/py/lesson_003",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.03_shape_select">
     <configuration name="02_global_color" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
@@ -251,7 +205,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
