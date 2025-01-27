@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="rename folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_002 complete/06_songs_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_002 complete/06_songs_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_003 complete/03_division.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_003 complete/03_division.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/04_fractal.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_004/04_fractal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_004/05_snowfall.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_004/05_snowfall.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +36,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../../../py/Lib/site-packages/simple_draw.py" root0="SKIP_INSPECTION" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -43,45 +50,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.00_bubbles.executor": "Run",
-    "Python.00_distance.executor": "Run",
-    "Python.01_circle.executor": "Run",
-    "Python.01_days_in_month.executor": "Run",
-    "Python.01_shapes.executor": "Run",
-    "Python.01_triangle.executor": "Run",
-    "Python.02_envelop.executor": "Run",
-    "Python.02_fractal.executor": "Run",
-    "Python.02_global_color.executor": "Run",
-    "Python.02_operations.executor": "Run",
-    "Python.02_snowflake.executor": "Run",
-    "Python.03_division.executor": "Run",
-    "Python.03_favorite_movies.executor": "Run",
-    "Python.03_shape_select.executor": "Run",
-    "Python.04_my_family.executor": "Run",
-    "Python.04_student.executor": "Run",
-    "Python.05_for.executor": "Debug",
-    "Python.05_store.executor": "Run",
-    "Python.05_zoo.executor": "Run",
-    "Python.06_rainbow (1).executor": "Run",
-    "Python.06_rainbow.executor": "Run",
-    "Python.06_songs_list.executor": "Run",
-    "Python.07_secret.executor": "Run",
-    "Python.07_wall (1).executor": "Run",
-    "Python.07_wall.executor": "Run",
-    "Python.08_garden.executor": "Run",
-    "Python.08_smile.executor": "Run",
-    "Python.09_shopping.executor": "Run",
-    "Python.10_store.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Timur/probe/py/lesson_003",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.00_bubbles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00_distance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_days_in_month.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_shapes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_envelop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_fractal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_global_color.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_snowflake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_division.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_favorite_movies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_shape_select.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_fractal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_my_family.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_student.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_for.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.05_store.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_zoo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_rainbow (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_rainbow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_songs_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_secret.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_wall (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_wall.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_garden.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_smile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_shopping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_store.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Timur/probe/py/lesson_003&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.03_shape_select">
+}</component>
+  <component name="RunManager" selected="Python.04_fractal">
+    <configuration name="02_fractal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_004/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_004/practice/02_fractal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="02_global_color" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="ENV_FILES" value="" />
@@ -96,6 +126,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_004/02_global_color.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_snowflake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_004/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_004/practice/02_snowflake.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_my_family" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_fractal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,55 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_002 complete" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_004" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_002 complete/04_my_family.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="05_zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_002 complete" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_002 complete/05_zoo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="06_songs_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_002 complete" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_002 complete/06_songs_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_004/04_fractal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,18 +202,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04_fractal" />
+        <item itemvalue="Python.02_fractal" />
+        <item itemvalue="Python.02_snowflake" />
         <item itemvalue="Python.03_shape_select" />
         <item itemvalue="Python.02_global_color" />
-        <item itemvalue="Python.06_songs_list" />
-        <item itemvalue="Python.05_zoo" />
-        <item itemvalue="Python.04_my_family" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
       </set>
     </attachedChunks>
   </component>
@@ -346,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731175444552</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="rename folder">
+      <option name="closed" value="true" />
+      <created>1737708506297</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737708506297</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
