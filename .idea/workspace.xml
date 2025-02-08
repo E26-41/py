@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="rename folder">
+    <list default="true" id="a8ee00b3-d418-4629-996c-a4af2819f0a4" name="Changes" comment="i dont know how to do this right now">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson_004/04_fractal.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_004/04_fractal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_004/05_snowfall.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_004/05_snowfall.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737708506297</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="i dont know how to do this right now">
+      <option name="closed" value="true" />
+      <created>1739028405344</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1739028405344</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,6 +395,7 @@
     <MESSAGE value="Complete 3 lesson" />
     <MESSAGE value="this too" />
     <MESSAGE value="rename folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename folder" />
+    <MESSAGE value="i dont know how to do this right now" />
+    <option name="LAST_COMMIT_MESSAGE" value="i dont know how to do this right now" />
   </component>
 </project>
